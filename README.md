@@ -120,12 +120,11 @@ MIT License - Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
 ## 👥 Tác giả
 
-- **Trần Phương Lâm** - _Lead Developer_
-- **Bùi Gia Huy** - _UI/UX Designer_
+- **Trần Phương Lâm** - _Developer_
 
 ## 📞 Liên hệ
 
-Nếu bạn có câu hỏi hoặc đề xuất, vui lòng liên hệ qua email: example@email.com
+Nếu bạn có câu hỏi hoặc đề xuất, vui lòng liên hệ qua email: 21521059@gm.uit.edu.vn
 
 ---
 
